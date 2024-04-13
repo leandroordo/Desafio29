@@ -1,0 +1,11 @@
+{
+  "name": "desafio29",
+  "version": "1.0.0",
+  "description": "Desafio 29",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Ordoñez",
+  "license": "ISC"
+}
