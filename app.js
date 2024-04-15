@@ -53,7 +53,7 @@ console.log(
     `${formatBorder("│")}`
 );
 console.log(
-  `${formatBorder("│")} ${formatInfo("Cantidad de palabr    ")}${formatBorder(
+  `${formatBorder("│")} ${formatInfo("Cantidad de palabras  ")}${formatBorder(
     "│"
   )}    ${formatInfo(totalPalabras)}` +
     " ".repeat(7 - totalPalabras.toString().length) +
